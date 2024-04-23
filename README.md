@@ -1,2 +1,3 @@
 # gitlab-ci-test
-test gitlab ci
+test gitlab ci 
+test commit
